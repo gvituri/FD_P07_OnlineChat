@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804745556159",
+    "firebase_url": "https://flutteronlinechat-eea68.firebaseio.com",
+    "project_id": "flutteronlinechat-eea68",
+    "storage_bucket": "flutteronlinechat-eea68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804745556159:android:dc9adc93fce353678c960a",
+        "android_client_info": {
+          "package_name": "br.com.vituri.flutter_online_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804745556159-79su1284b8ifuo8q2mit40sbaj8jnntn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.vituri.flutter_online_chat",
+            "certificate_hash": "8247cbacb2584b9cf94999947667af3598ad3a2c"
+          }
+        },
+        {
+          "client_id": "804745556159-kp0ps7nprl1m9oufscpl07fsh40jm2av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYOAsT_es2EvVOEOgW84SJXfflavMJKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804745556159-kp0ps7nprl1m9oufscpl07fsh40jm2av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
